@@ -1,4 +1,4 @@
-# Event-Booking-App-Gen-Y-Creatives-Task
+# Movie-Ticket-Booking-App-Gen-Y-Creatives-Task
 
 Figma Link : https://www.figma.com/file/woAa48xeW53sZjHPaj2aLg/Untitled?node-id=0-1&t=KJjMdOEq0sFhhJk3-0
 
